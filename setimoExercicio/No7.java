@@ -8,5 +8,7 @@ public class No7 {
 
     public No7(int valor7) {
         this.valor7 = valor7;
+        this.anterior7 = null;
+        this.proximo7 = null;
     }
 }
